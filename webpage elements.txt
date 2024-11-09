@@ -1,0 +1,20 @@
+Locator:
+
+1) Id --------- id= "header-cart"
+2) name 
+3) linkText
+4) partialLinkText
+5) ClassName- Class =" container"
+6) tagName ---- div, span, html, button, input, h4, header, footer, main
+7) Xpath --- Most important
+
+xml path- Extensible Markup language
+
+DOM -> document object model
+
+1) Absolute Xpath
+2) Relative Xpath
+
+//Tagname[@attribute= 'value']
+
+
